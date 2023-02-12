@@ -11,7 +11,7 @@ PART 1:-
 In this, we had to check the customer feedback about the airlines form an online booking website and visualise key sectors which had a 
 negatively increasing rate in the reviews.
 
-The sectors mainly consisted of FOOD, ENTERTAINMENT and SERVICE. 
+The sectors mainly consisted of FOOD, COMFORT and SERVICE. 
 In these classes :- Business, Economy, First Class.
 
 PART 2:-
